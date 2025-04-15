@@ -8,6 +8,6 @@ sky:
     password: 123456
   alioss:
     endpoint: oss-cn-shenzhen.aliyuncs.com
-    access-key-id: LTAI5t5iZvTv7MHZUvqBNtfV
-    access-key-secret: yTSKjxTjJTVGHZL2GPdxDzaO7JllUQ
-    bucket-name: myy-typora-photo
+    access-key-id: your key-id
+    access-key-secret: your key-secret
+    bucket-name: your bucket-name

@@ -6,15 +6,8 @@ sky:
     database: sky_take_out
     username: root
     password: 123456
-
   alioss:
     endpoint: oss-cn-shenzhen.aliyuncs.com
-    access-key-id: LTAI5t5iZvTv7MHZUvqBNtfV
-    access-key-secret: yTSKjxTjJTVGHZL2GPdxDzaO7JllUQ
-    bucket-name: myy-typora-photo
-
-  redis:
-    host: localhost
-    port: 6379
-    password: 123456
-    database: 10
+    access-key-id: your key-id
+    access-key-secret: your key-secret
+    bucket-name: your bucket-name
